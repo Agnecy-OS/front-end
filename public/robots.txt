@@ -6,4 +6,4 @@ Disallow: /workspaces/
 Disallow: /api/
 Disallow: /silent-check-sso.html
 
-Sitemap: https://agency-os-eyad.vercel.app/sitemap.xml
+Sitemap: https://agency-os.eyadsharkawy.tech/sitemap.xml
