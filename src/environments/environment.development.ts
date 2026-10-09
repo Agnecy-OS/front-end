@@ -5,7 +5,7 @@ export const environment: AppEnvironment = {
   apiUrl: "http://localhost:8080/api/v1",
   wsUrl: "http://localhost:8080/ws-timer",
   keycloak: {
-    url: "https://key-cloak.duckdns.org",
+    url: "https://keycloak.eyadsharkawy.tech",
     realm: "agency-os-realm",
     clientId: "agency-os-frontend",
   },
